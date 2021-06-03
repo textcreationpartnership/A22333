@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames, by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all to whome these presents shall come, greeting whereas our welbeloued subiect, Benedict Webbe, of Kingeswood, ... clothier, hauing in his trauell ... obserued a kinde of oyle to bee made of rape-seede ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22333</idno><idno type="EEBO-CITATION">33151046</idno>
+  <idno type="VID">28885</idno>
+  <idno type="EEBO-PROQUEST">2248550362</idno>
+  <idno type="STC">STC 8743</idno>
+  <idno type="STC">ESTC S3826</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A22333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames, by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all to whome these presents shall come, greeting whereas our welbeloued subiect, Benedict Webbe, of Kingeswood, ... clothier, hauing in his trauell ... obserued a kinde of oyle to bee made of rape-seede ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>F. Kingston,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Patent for 14 years to B. Webbe to manufacture rape-seed oil.</note>
+                  <note>"Witnesse Our selfe at Westminster, the eighteenth day of December, in the two and twentieth yeere of Our Reigne of England, France, and Ireland, and of Scotland the eight and fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rapeseed industry --  Great Britain.</term>
+               <term type="topical_term">Oil industries --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28885:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms of England, circa 1625</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES, by the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all to whom these presents shall come, Greeting:</salute>
+            </opener>
+            <p>Whereas Our welbeloued Subiect, <hi>Benedict Webbe,</hi> of Kingeswood, in Our Countie of Wiltes, Clothier, hauing in his trauell beyond the Seas, about twenty yeeres last past, obserued a kinde of Oyle to bee made of Rape-seede, and other small round Seedes, for the vse of Clothing, and vpon many chargeable tryals and endeauours continued almost euer since; hath now at last attained to the perfect Art and skill of making the said Oyle of Rape-seede and other small seedes aforesaid: which Oyle, vpon tryall thereof made, by many Clo<g ref="char:EOLhyphen"/>thiers of Our Counties of Wiltes, Gloucester, and Somerset, is found farre better for the vse of Clothing then that which hath beene yeerely brought out of the Low Countries, and as vsefull as the Spanish Oyle yeerely imported into this Our Kingdome of England, and bought at deare rates and prices, for the vse of the finest sort of Clothes, by which Manufacture and Inuention of making the said vsefull Oyle of Seedes at home within our owne Dominions, the whole Drapery of this Our Kingdome may be in short time supplyed with fitting Oyle for Clothing, without the helpe of any Oyle from forraigne parts, and at cheaper rates then are now paid for the same, besides the setting of many of Our poore Sub<g ref="char:EOLhyphen"/>iects on worke, and the great enriching of much barren land in this our Kingdome, for that the said Oyle-seeds doe best prosper vpon dry and sandy grounds, which being otherwise of small vse and profit, will (after some few yeeres imployment in Tillage for the said Oyle-seede) become fruitfull for Come, and giue good returne to the Husbandman. In consideration whereof, and of the pub<g ref="char:EOLhyphen"/>like good which will redound to this whole Common-wealth by this profitable Inuention and Manufacture of Rape-seede Oyle, the said <hi>Benedict Webbe</hi> hath by his humble Petition desired, that Wee should be graciously pleased to grant vnto him the priuiledge and benefit of this Art and Inuention, for the sole making of Oyle of Rape-seede and other Seedes, within this Our Realme of England and Dominion of Wales, for the terme heereafter specified. Know ye therefore, that Wee taking the Premisses into Our gracious consideration, and being willing to cherish all Our lo<g ref="char:EOLhyphen"/>uing Subiects in such ingenuous and profitable Inuentions, whereby the barren parts of the Land may be improoued to more fruit and profit, the Manufactures of Our owne Kingdome increased, and Our owne people thereby set on worke; and finding it agreeable to Our Honour and Iustice, that the Authors and first Inuentors thereof should in some measure reape the fruit of their labours, charge, and industries, for incouragement to them and others, in the like good and lawdable endeauours heereafter, haue for these considerations, and others Vs specially moouing, of Our espe<g ref="char:EOLhyphen"/>ciall grace, certaine knowledge, and meere motion, giuen and granted, and by these presents, for Vs, Our Heires and Successours, doe giue and grant vnto the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, full and free libertie, license, power, and authority, that hee the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, or any of them, by himselfe or them<g ref="char:EOLhyphen"/>selues, or his or their Deputies, Factors, Seruants, or Workemen, shall and may, at all and euery time and times, and from time to time, during the terme heereafter, in, and by these presents, gran<g ref="char:EOLhyphen"/>ted and limited, at their owne proper cost and charges, vse, exercise, practise, and put in vre, within Our Realme of England and Dominion of Wales, or any part thereof, the said Art, Mysterie, Way, and meanes of making Oyle of Rape-seedes and other like Seedes, sowne or to be sowne within Our Realme or Dominion aforesaid, for the vse of Clothing, or for any other vse whatso<g ref="char:EOLhyphen"/>euer. And for the better effecting thereof, to frame, erect, and set vp, in any place or places within the said Realme of England and Dominion of Wales, any Mill or Milles, house or houses, En<g ref="char:EOLhyphen"/>gine or Engines whatsoeuer, fit and necessary for the putting in vre and practice of the said Arte, Mysterie, Way, or meanes of preparing, grinding, working, and making of the said Oyle of Rape<g ref="char:EOLhyphen"/>seedes, or other like Seedes, to be sowne and had within Our said Realme of England and Dominion of Wales aforesaid, vsefull to the end and purposes aforesaid, or any of them, or to any other end or purpose whatsoeuer: and the same Oyle so made and fitted for vse, to vtter and sell, or otherwise to dispose of or doe away, at the free will and pleasure of him the said <hi>Benedict Webbe,</hi> his Executors, Administrators, or Assignes, or any of them, and for their, euery or any of their best profit and commoditie. And that this Our Grant and Priuiledge may take the better effect, and the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, receiue and enioy the full benefit of the same, according to Our gracious intention hereby declared, Wee will, and by these presents, for Vs, Our Heires, and Successours, doe straightly charge, prohibit, and forbid: And doe also of Our more especiall grace, certaine knowledge, and meere motion, grant to the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, and euery of them; that no person or persons whatsoeuer, borne within any of Our Realmes or Dominions, or any other person or persons, either Denizens or Strangers, borne in any forraine Realmes or Countries, of what estate, degree, or condition he or they be, or shall be, other then the said <hi>Benedict Webbe,</hi> his Executors,
+<pb facs="tcp:28885:2"/>Administrators, and Assignes, and such as shall be by him the said <hi>Benedict Webbe,</hi> his Executors, Administrators, or Assignes, or some of them, set on worke or authorized, shall or may, at any time or times during the terme, by these presents granted, practise, vse, exercise, and put in vre the said Arte or Mysterie of making Oyle of Rape-seedes, or other Seedes, or by any way, meanes, or de<g ref="char:EOLhyphen"/>uice whatsoeuer, not heeretofore vsed within Our said Realme of England or Dominion of Wales, prepare, grinde, or worke the said Rape-seedes, or other Seedes, for the making of Oyle, or set vp, frame, make, or vse any Mill or Milles, Engine or Engines, for the grinding or making of any Oyle of Rape-seedes, or other Seedes, within Our Realme of England or Dominion of Wales, or any place or places in them, or either of them, vpon paine of the heauy indignation and displeasure of Vs, Our Heires, and Successours, and vpon such further paines, penalties, fines, impri<g ref="char:EOLhyphen"/>sonment, and other punishment, as by any Lawes or Statutes of this Our Realme of England, can or may be inflicted or imposed vpon the offendours, for their disobedience in contemning Our Royall Commandement in this behalfe. To haue, and to hold, vse, exercise, and enioy, all and euery the said Licenses, Powers, Priuiledges, Authorities, Benefits, and other the Premisses, vnto the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, from the date of these presents, for, and during the terme, and vnto the full end and terme of foureteene yeeres from thence next ensuing, fully to be compleate and ended: Yeelding and paying therefore yeerely, during the said terme, to Vs, Our Heires, and Successours, the yeerely rent or summe of fiue pounds, at the feast of Saint <hi>Michael</hi> the Archangell, onely, or within twenty dayes next after the same feast yeerely, at the Receit of Our Exchequer, or to the Recorder of the County of Gloucester for the time be<g ref="char:EOLhyphen"/>ing. And Wee doe further by these presents, for Vs, Our Heires, and Successours, giue and grant vnto the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes, and euery of them, full power, license, and authority, that he, they, or any of them, by himselfe, or themselues, or his, their, or any of their Deputies, Factors, Agents or Seruants, shall and may from time to time, and at all times during the said terme of foureteene yeeres, with the assistance of a Constable, or some other Officer, in due and lawfull manner, enter into all and euery house and houses, place and pla<g ref="char:EOLhyphen"/>ces conuenient, within Our said Realme of England and Dominion of Wales, as well within liberties as without, where he or they, or any of them shall haue cause to suspect, that any Mill or Milles, or other Engine or Engines shall be erected, set vp, vsed, or imployed, for the grinding, preparing, or making of any Oyle of Rape-seeds, or other the Seeds aforesaid: And also in like maner, enter aboard any Ship, Lighter, Boate, or other Vessell, wherin any such Oyle made within this Realme, contrary to the true intent of these presents, or any Seeds prepared for making of Oyle, contrary to the true intent of these presents, shalbe probably suspected to be laden, shipped, or carried frō one Port, Hauen, or Creek, within Our said Realm of England &amp; Dominion of Wales, vnto another, by, or for any person or persons, other then for the vse of the said <hi>Benedict Webbe,</hi> his Executors, Administrators, or Assignes, or by, or with his or their license or authority: And there carefully and di<g ref="char:EOLhyphen"/>ligently, by all like good and lawfull wayes and meanes, to try and search for all such Oyle made of Rape-seedes, or other the Seedes aforesaid, and for all such Seedes, and other materials, prepared for the making of such Oyle, and not wrought or conuerted into Oyle, as shall bee found in any such house, Mill, or place, vpon the Land, or in any Ship, Boate, or Vessell, water-borne or other<g ref="char:EOLhyphen"/>wise, attempted to be vsed or imployed, made or vented within Our said Realme of England or Dominion of Wales aforesaid, contrary to the true meaning of these presents, and finding any such, or any resistance in the execution heereof; that then hee or they, or any of them, doe certifie the same into the Court of Exchequer of Vs, Our Heires, and Successours, to the end the offenders there<g ref="char:EOLhyphen"/>in may receiue condigne punishment for the same their offences; vnto which Court of Exchequer, Wee doe by these presents, for Vs, Our Heires and Successours, giue power and authority vpon such Certificate as aforesaid, and due proofe of the said misdemeanors or offences, to inflict such punishment by fine and imprisonment, or otherwise, vpon the offenders, as to the said Court shall bee thought meete, and the said offences to deserue. And We doe also by these presents, for Vs, Our Heires, and Successours, will and command, as well all and singuler Maiors, Sheriffes, Iustices of Peace, Bayliffes, Constables, and Headboroughes, as also all Customers, Controllers, Searchers, and other Officers of any of Our Ports, or belonging to the Admiralty: and to all other Officers, Ministers, and Subiects whatsoeuer, of Vs, Our Heires, and Successours, that they and euery of them, be from time to time, ayding, helping, and assisting, vnto the said <hi>Benedict Webbe,</hi> his Execu<g ref="char:EOLhyphen"/>tors, Administrators, and Assignes, and to euery of them, their Deputies, Seruants, and Workemen, in all things, in, and about the accomplishment of Our pleasure, expressed in these Our Letters Patents, and in the exercise and execution of the same, and of all and euery Article, Clause, and thing in them contained: And that they, or any of them, doe not in any wise hinder, molest, or in<g ref="char:EOLhyphen"/>terrupt the said <hi>Benedict Webbe,</hi> his Executors, Administrators, or Assignes, or his or their Deputies, Seruants, or Workemen, or any of them, in any thing concerning the premisses, as they tender Our pleasure, and will answere for the contrary at their perils. And these our Letters Patents, or the Inrolment thereof, shall be their sufficient warrant and discharge in that behalfe. And fur<g ref="char:EOLhyphen"/>ther, of Our especiall grace, certaine knowledge, and meere motion, Wee doe, for Vs, Our Heires, and Successours, grant vnto the said <hi>Benedict Webbe,</hi> his Executours, Administratours, and Assignes, that these presents, or the Inrolment of the same shall stand and be, and shall be so construed and taken, to be good, firme, effectuall, and sufficient in the Law, for all the intents and pur<g ref="char:EOLhyphen"/>poses aforesaid, and most auaileable for the benefit of the said <hi>Benedict Webbe,</hi> his Executors, Administrators, and Assignes: Notwithstanding, the not particular, or not exact describing of the manner of preparing or working of the said Seedes, or making or extracting the said Oyle: And notwithstanding the not describing of the Milles, Presses, or other Engines, Tooles, Instruments, or Deuices, by which the same is to be done or effected: And notwithstanding, the not naming, or not rightly naming the Seedes or materials whereof the said Oyle is to be made, or any other incer<g ref="char:EOLhyphen"/>tainety or defect whatsoeuer, in these Our Letters Patents notwithstanding. Although expresse mention of the true yeerely value, or certaintie of the Premisses, or any of them, or of any other gifts or grants, by Vs, or by any of Our Progenitors or Predecessors to the said <hi>Benedict Webbe,</hi> before this time made in these presents, is not made: Or any Statute, Act, Ordinance, Prouision, Proclama<g ref="char:EOLhyphen"/>tion, or Restraint heretofore had, made, set foorth, ordained, or prouided: Or any other thing, cause, or matter whatsoeuer to the contrary thereof, in any wise notwithstanding. In witnesse where<g ref="char:EOLhyphen"/>of, We haue caused these Our Letters to be made Patents. </p>
+            <closer>
+               <dateline>
+                  <hi>Witnesse Our selfe at Westminster, <date>the eighteenth day of December, in the two and twentieth yeere of Our Reigne of England, France, and Ireland, and of Scotland the eight and fiftieth.</date>
+                  </hi>
+               </dateline>
+               <hi>Per Breue de priuato Sigillo.</hi>
+               <signed>
+                  <hi>Yong</hi> and <hi>Pye.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
